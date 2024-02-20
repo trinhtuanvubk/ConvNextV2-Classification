@@ -7,9 +7,9 @@ pip install -r requirements.txt
 ```
 
 ### Data preprocessing:
-
-- Dataset should be folder data
-
+```
+Dataset should be folder data
+```
 ### Divide the dataset
 ```
 # We use all the train data and 2/3 of the val data as the final training set, and the remaining val data as the validation dataset.
