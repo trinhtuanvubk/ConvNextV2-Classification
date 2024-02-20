@@ -1,0 +1,2 @@
+main.py
+Namespace(batch_size=32, class_nums=2, clr=True, dataroot='/home/aittgp/data/faces/CelebA_Spoof/Data/liveness/', decay=4e-05, epochs=100, epochs_per_step=30, evaluate=False, find_clr=False, gamma=0.01, gpus=[0], img_size=512, label_smooth=0.1, learning_rate=0.005, log_interval=200, max_lr=0.002, min_lr=1e-05, mixup_alpha=0.2, mixup_prob=0.5, mode='exp_range', momentum=0.9, results_dir='./results', resume='', save='2024-02-19_09-41-32', schedule=[20, 40, 60, 80, 160, 320], seed=3407, start_epoch=0, type='float32', workers=4)
